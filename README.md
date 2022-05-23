@@ -4,9 +4,10 @@ Hi 👋 My name is Juan Velazquez
 Fullstack Software Engineer
 ---------------------------
 
-* 🌍  I'm based in Chicago
+* 🌍  I'm based in Chicago, IL
+* * 🧠  I'm currently learning machine learning with TensorFlow.js
 * ✉️  You can contact me at [juandvelaz@gmail.com](mailto:juandvelaz@gmail.com)
-* 🧠  I'm learning machine learning with TensorFlow.js
+
 
 ### Skills
 
