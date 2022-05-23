@@ -1,11 +1,13 @@
-Hi 👋 My name is Juan Velazquez
+Hi Hi Hello 👋 👋 👋
 ===============================
+My name is Juan David Velazquez Vazquez
+-------------------------------
 
-Fullstack Software Engineer
+I'm a Fullstack Software Engineer
 ---------------------------
 
 * 🌍  I'm based in Chicago, IL
-* * 🧠  I'm currently learning machine learning with TensorFlow.js
+* 🧠  I'm currently tinkering with Machine Learning using TensorFlow.js
 * ✉️  You can contact me at [juandvelaz@gmail.com](mailto:juandvelaz@gmail.com)
 
 
@@ -30,6 +32,7 @@ Fullstack Software Engineer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/juandvelaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/juandvelaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/juandvelaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
