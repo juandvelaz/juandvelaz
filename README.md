@@ -7,7 +7,7 @@ I'm a Fullstack Software Engineer
 ---------------------------
 
 * 🌍  I'm based in Chicago, IL
-* 🧠  I'm currently tinkering with Machine Learning using TensorFlow.js
+* 🧠  I'm currently working on updating my projects
 * ✉️  You can contact me at [juandvelaz@gmail.com](mailto:juandvelaz@gmail.com)
 
 
