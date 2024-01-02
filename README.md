@@ -1,6 +1,6 @@
 Hi Hi Hello 👋 👋 👋 
 ===============================
-My name is Juan David Velazquez 
+My name is Juan David Velazquez
 -------------------------------
 
 I'm a Fullstack Software Engineer
