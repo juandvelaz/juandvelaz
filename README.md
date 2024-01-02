@@ -6,7 +6,7 @@ My name is Juan David Velazquez
 I'm a Fullstack Software Engineer
 ---------------------------
 
-* 🌍  I'm based in Chicago, IL 
+* 🌍  I'm based in Chicago, IL
 * 🧠  I'm currently looking for my next adventure in tech
 * ✉️  You can contact me at [juandvelaz@gmail.com](mailto:juandvelaz@gmail.com)
 
